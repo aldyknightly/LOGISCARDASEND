@@ -77,3 +77,31 @@ Pengiriman Awal	Pengiriman Tujuan	Biaya Pengiriman (Lovelace)
 8.	Langkah terakhir adalah yang mengkonfirmasi Address Yang telah di kirim  - memasukan receipt Number berupa random number misal 123456. Receipt Number akan menjadi konfirmasi  beserta paymentAddress dan Deadline Pengiriman sebagai parameter datum yang akan divalidasi di onchain.
 
 ========================================
+SImulation Success
+![image](https://user-images.githubusercontent.com/38272712/204819945-53fa9d98-7fba-4508-a1cd-31dc40f01740.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204820003-cca16572-69c0-4293-a0a3-8bed501f1b12.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204820060-a20b901c-08d4-41cb-83a2-f209653886a7.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204820142-095f1c33-5cfb-4a36-9e2e-42da6eaf4d42.png)
+
+Simulation Time Out more 7 Slot or 9
+![image](https://user-images.githubusercontent.com/38272712/204820352-5a65e367-892e-47c9-97f3-58dc4c181816.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204820476-0022813d-ad77-4b83-a9dc-9459fc66840e.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204820537-867acc9a-1356-4074-80c1-6bc6385781a2.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204820609-6de6df2e-9dbf-4b0d-a197-d2e11cdff63f.png)
+
+Simulation Wrong Pins
+![image](https://user-images.githubusercontent.com/38272712/204820810-2fc499c7-0ba3-4c9a-bb39-74996fb5cfff.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204820966-0c2fa2fc-d3cd-45d3-821a-e6c84a626556.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204821060-e4fa5133-66d8-4262-918d-b47cc29b52f6.png)
+
+![image](https://user-images.githubusercontent.com/38272712/204821124-b156cec4-7930-4d9d-9e2e-07eff5a2205d.png)
+
+
