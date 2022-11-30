@@ -13,9 +13,13 @@ Smart contract ini digunakan untuk pembayaran pada layanan pengiriman / logistik
 1.	Masukan Pembayaran  agen jasa pengiriman 
 walet add
 	[wallet1 = a2c20c77887ace1cd986193e4e75babd8993cfd56995cd5cfce609c2]
+
 	[wallet2 = 80a4f45b56b88d1139da23bc4c3c75ec6d32943c087f250b86193ca7]
+
 	[wallet3 = 2e0ad60c3207248cecd47dbde3d752e0aad141d6b8f81ac2c6eca27c]
+
 	[wallet4 = 557d23c0a533b4d295ac2dc14b783a7efc293bc23ede88a6fefd203d]
+
 	[wallet5 = bf342ddd3b1a6191d4ce936c92d29834d6879edf2849eaea84c827f8]
 
 2.	Masukan Batas Waktu Pengiriman  POSIX-time format. Waktu dalam simulasi ini Rabu, Juli 29, 2020 9:44:52.999 PM GMT (POSIX-time : 1596059092999). untuk contoh batas waktu yang telah ditetapkan Rabu, juli 29, 2020 9:45:01 PM (POSIX-time : 1596059101000) maka transaksi dari wallet-1 (Customer) ke wallet-2 (Pengiriman dan Pengantaran) akan berhasil jika slot waktu lebih besar dari atau sama dengan 10 detik dalam simulasi.
@@ -23,10 +27,15 @@ walet add
 Plutus Playground - Value
 ---------------------------------------------------------------
 	[1596059092999 = Wednesday, July 29, 2020 9:44:52.999 PM (NOW)]
+
 	[1596059101000 = Wednesday, July 29, 2020 9:45:01 PM (+10 slot)]
+
 	[1596059111000 = Wednesday, July 29, 2020 9:45:11 PM (+20 slot)]
+
 	[1596059121000 = Wednesday, July 29, 2020 9:45:21 PM (+30 slot)]
+
 	[1596059131000 = Wednesday, July 29, 2020 9:45:21 PM (+40 slot)]
+
 	[1596059141000 = Wednesday, July 29, 2020 9:45:21 PM (+50 slot)]
 
 3.	Masukkan lokasi/kota tujuan pengiriman barang yang akan dikirim lalu masukkan lokasi/kota tujuan pengiriman barang yang akan dikirim. Nama kota dimasukkan 
