@@ -10,8 +10,10 @@ need to use the plutus playground application
 =========== Simulation =================
 B.	SMART CONTRACT
 Smart contract ini digunakan untuk pembayaran pada layanan pengiriman / logistik / kurir. Langkah-langkah untuk memakai smart contrat : 
+
 1.	Masukan Pembayaran  agen jasa pengiriman 
 walet add
+
 	[wallet1 = a2c20c77887ace1cd986193e4e75babd8993cfd56995cd5cfce609c2]
 
 	[wallet2 = 80a4f45b56b88d1139da23bc4c3c75ec6d32943c087f250b86193ca7]
@@ -42,6 +44,7 @@ Plutus Playground - Value
 
 Harus Berdasarkan daftar rute berikut : 
 Pengiriman Awal	Pengiriman Tujuan	Biaya Pengiriman (Lovelace)
+
 [PADANG    To  JAKARTA 	    1100000 ]
 [JAKARTA   To	PADANG	      1200000]
 [PADANG	  To  SURABAYA	    3100000]
